@@ -23,3 +23,7 @@ The goal is to identify whether an image has been manipulated or forged, aiding 
 3. Train the CNN model using the provided dataset link or your own dataset.
 4. Run the flask app to start the webapp interface.
 5. Upload the image and view the predicted result.
+
+Having issues? 
+
+Contact me : shikhakumari13498@gmail.com
